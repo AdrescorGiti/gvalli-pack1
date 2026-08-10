@@ -1,5 +1,3 @@
-<img width="1169" height="1169" alt="Gemini_Generated_Image_k0o74ik0o74ik0o7-no-bg-preview (carve photos)" src="https://github.com/user-attachments/assets/9a143b1a-5286-4b91-96aa-6aa11c47f54d" />
-const char* README_MARKDOWN = R"(
 # 🛡️ VTest — Core Security & Malware Inspection Engine for G OS
 
 <p align="center">
