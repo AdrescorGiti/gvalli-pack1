@@ -24,15 +24,13 @@
 
 ### Быстрая установка через GValli
 
-    curl -sSLf -o vtest.gpkg https://github.com/AdrescorGiti/gvalli-repo/raw/refs/heads/main/vtest-0.1.0.gpkg
-    sudo gvalli install ./vtest.gpkg
+    gvalli install vtest
 
 ### Сборка из исходников (Rust)
 
     git clone https://github.com/AdrescorGiti/vtest.git
     cd vtest
-    cargo build --release
-    sudo cp target/release/vtest /usr/local/bin/
+    gvalli create -si
 
 ---
 
@@ -40,11 +38,7 @@
 
 ### Проверка пакета .gpkg
 
-    # Базовая проверка артефакта
     vtest check package.gpkg
-
-    # Сканирование распакованной директории
-    vtest scan /tmp/unpack_dir/
 
 ### Коды возврата (Exit Codes)
 
