@@ -1,8 +1,9 @@
+<img width="1169" height="1169" alt="Gemini_Generated_Image_k0o74ik0o74ik0o7-no-bg-preview (carve photos)" src="https://github.com/user-attachments/assets/9a143b1a-5286-4b91-96aa-6aa11c47f54d" />
 const char* README_MARKDOWN = R"(
 # 🛡️ VTest — Core Security & Malware Inspection Engine for G OS
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/59526dbc-b0c4-4554-a93b-d76b4b5b5eff" width="500" alt="VTest Banner" />
+ <img width="500" height="500" alt="Gemini_Generated_Image_k0o74ik0o74ik0o7-no-bg-preview (carve photos)" src="https://github.com/user-attachments/assets/9a143b1a-5286-4b91-96aa-6aa11c47f54d" />
 </p>
 
 > **VTest** — это высокопроизводительный, легкий и бескомпромиссный антивирусный движок, разработанный специально для экосистемы **G OS** и пакетов формата `.gpkg`.
